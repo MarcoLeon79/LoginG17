@@ -1,0 +1,10 @@
+.botones{
+    background-color: #0D6EFD;
+    color: #fff;
+    font-family: var(--font-mono);
+    transition: var(--transition);
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 9px;
+    font-size: 1em;
+}
